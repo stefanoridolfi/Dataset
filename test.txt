@@ -1,3 +1,0 @@
-Un modulo è un nome_file.py che contiene una lista di funzioni. 
-Con il comando from nome_file import * importo tutte le funzioni che sono contenute nel file.
-terza riga
